@@ -2,7 +2,7 @@
 
 | Проект                          | О чем проект                                                  | Технологии|
 |:------------------------------|:-------------------------------------------------------------|:--------|
-| 1. [Предобработка данных]((https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/1.%20Data%20preprocessing))| Выяснить какие признаки влияют на возвращение кредитов в срок.| pandas, pymystem3|
+| 1. [Предобработка данных](https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/1.%20Data%20preprocessing)| Выяснить какие признаки влияют на возвращение кредитов в срок.| pandas, pymystem3|
 | 2. [Исследовательский анализ](https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/2.%20Exploratory%20data%20analysis)| На основе объявлений о продаже недвижимости за несколько лет, выбрать признаки, которые влияют на стоимость недвижимости, научиться определять рыночную стоимость недвижимости.| pandas, numpy, matplotlib, seaborn|
 | 3. [Статистический анализ](https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/3.%20Statistical_analysis)| На выборке клиентов компании нужно проанализировать, какой из двух тарифов лучше, проверить гипотезу о различии двух тарифов.| pandas, numpy, matplotlib, scipy|
 | 4. [Анализ рынка компьютерных игр](https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/4.%20Video%20games%20market%20analysis)| Для интернет-магазина компьютерных игр на основе исторических данных нужно определить, какие факторы делают игру успешной.| pandas, numpy, matplotlib, scipy, seaborn|
